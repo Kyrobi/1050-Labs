@@ -1,0 +1,1 @@
+nt array[], int begin, int end, int increm
